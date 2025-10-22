@@ -11,18 +11,29 @@
 
 <br>
 
-### 💼Technologies and tools:
+### Welcome to my corner on GitHub! Here you can find my personal projects, studies and experiments with technology:
 
 <div style="display: inline_block"><br>
 
+<p> 
+
+🛠 **Technologies & Tools:**
+*   **Backend:** Java, Spring Boot, Kotlin, Node.js
+*   **Frontend:** React, React Native, JavaScript, TypeScript, HTML/CSS
+*   **Database:** PostgreSQL
+*   **Tools:** Git, Docker, AWS
+
+🎯 **Currently Focused on:**
+*   Deepening my knowledge in microservices architecture with Spring Cloud.
+*   Exploring unit and integration tests with JUnit and Mockito.
+
+</p>
   <img align="center" alt="Kotlin" height="35" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original-wordmark.svg" >                  
   <img align="center" alt="Java" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">          
   <img align="center" alt="Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt= "NodeJS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" >
-  <br>
-  <img align="center" alt="VS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Ruby on Rails" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain-wordmark.svg" >
   <img align="center" alt="React Native" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg">
